@@ -16,13 +16,13 @@
 
 ## We expect to find ``ckan`` and ``ckanext-{plugin}``
 ## for each plugin in this directory.
-SOURCESDIR := $(HOME)/Projects/dati-trentino-2
+SOURCESDIR := /usr/lib/ckan/default/src/
 
 ## List of plugin names
 PLUGINS := datitrentinoit
 
 ## Languages to consider for translations
-LANGUAGES := it en_GB
+LANGUAGES := fr
 
 ## ---- % end configuration % ----
 
