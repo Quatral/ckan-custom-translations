@@ -416,8 +416,8 @@ msgid ""
 "password."
 msgstr ""
 "Merci de <a href=\"{link}\">mettre à jour votre profil</a> et d'ajouter "
-"votre adresse courriel et nom complet. {site} utilise votre adresse courriel si "
-"vous avez besoin de réinitialiser votre mot de passe."
+"votre adresse courriel et nom complet. {site} utilise votre adresse courriel "
+"si vous avez besoin de réinitialiser votre mot de passe."
 
 #: ckan/controllers/home.py:101
 #, python-format
@@ -5369,8 +5369,8 @@ msgid ""
 "using the e-mail address in the following field."
 msgstr ""
 "Le nom du contact principal à contacter pour des requêtes concernant ce jeu "
-"de données en particulier, grâce à l'adresse courriel spécifiée dans le champ "
-"suivant."
+"de données en particulier, grâce à l'adresse courriel spécifiée dans le "
+"champ suivant."
 
 #: ckan/templates_legacy/package/new_package_form.html:198
 msgid "Author email"
@@ -6391,11 +6391,12 @@ msgid "Open Data Sherbrooke"
 msgstr "Données Ouvertes Sherbrooke"
 
 #: ckanext/vds/templates/header.html:80
-msgid "Données Ouvertes"
-msgstr ""
+msgid "Open Data"
+msgstr "Données Ouvertes"
 
 #: ckanext/vds/templates/header.html:107
 #: ckanext/vds/templates/ckanext/vds/licence.html:4
+#: ckanext/vds/templates/ckanext/vds/licence_complete.html:4
 msgid "Licence"
 msgstr ""
 
@@ -6407,15 +6408,43 @@ msgstr ""
 msgid "Foire aux questions"
 msgstr ""
 
-#: ckanext/vds/templates/home/index.html:56
-msgid ""
-"This is a nice introductory paragraph about CKAN or the site\n"
-"                in general. We don't have any copy to go here yet but soon "
-"we will\n"
-"                "
+#: ckanext/vds/templates/ckanext/vds/licence_complete.html:5
+msgid "Licence complète"
 msgstr ""
 
-#: ckanext/vds/templates/home/index.html:86
+#: ckanext/vds/templates/home/index.html:12
+msgid "ckan_header.jpg"
+msgstr "ckan_header_fr.jpg"
+
+#: ckanext/vds/templates/home/index.html:13
+msgid "We invite you to the first Sherbrooke Hackathon"
+msgstr "Nous vous invitons au premier hackathon Sherbrookois"
+
+#: ckanext/vds/templates/home/index.html:50
+msgid "DO YOU LIKE THE IDEA OF OPEN DATA?"
+msgstr "LES DONNÉES OUVERTES VOUS ALLUMENT?"
+
+#: ckanext/vds/templates/home/index.html:51
+msgid "Tell us your ideas!"
+msgstr "Faites-nous part de vos idées!"
+
+#: ckanext/vds/templates/home/index.html:52
+msgid ""
+"Suggest us new sets of useful data or applications that will improve the "
+"quality of life in our community."
+msgstr ""
+"Proposez-nous de nouveaux jeux de données utiles ou des applications qui "
+"amélioreront la qualité de vie des citoyens."
+
+#: ckanext/vds/templates/home/index.html:53
+msgid "Your suggestions are welcome"
+msgstr "Vos suggestions sont les bienvenues"
+
+#: ckanext/vds/templates/home/index.html:54
+msgid "here"
+msgstr "ici"
+
+#: ckanext/vds/templates/home/index.html:78
 msgid "eg. Events"
 msgstr "p.ex. Événements"
 
