@@ -6039,6 +6039,10 @@ msgstr ""
 msgid "Open Data Sherbrooke"
 msgstr ""
 
+#: ckanext/vds/templates/footer.html:19
+msgid "All rights reserved."
+msgstr ""
+
 #: ckanext/vds/templates/header.html:80
 msgid "Open Data"
 msgstr ""

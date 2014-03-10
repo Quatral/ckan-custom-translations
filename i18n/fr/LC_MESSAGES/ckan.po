@@ -6390,6 +6390,10 @@ msgstr "Bonjour, mon message est ..."
 msgid "Open Data Sherbrooke"
 msgstr "Données Ouvertes Sherbrooke"
 
+#: ckanext/vds/templates/footer.html:19
+msgid "All rights reserved."
+msgstr "Tous droits réservés."
+
 #: ckanext/vds/templates/header.html:80
 msgid "Open Data"
 msgstr "Données Ouvertes"
