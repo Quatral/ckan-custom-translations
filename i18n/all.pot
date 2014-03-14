@@ -6073,6 +6073,14 @@ msgstr ""
 msgid "We invite you to the first Sherbrooke Hackathon"
 msgstr ""
 
+#: ckanext/vds/templates/home/index.html:15
+msgid "4logos_donnees_anglais.jpg"
+msgstr ""
+
+#: ckanext/vds/templates/home/index.html:16
+msgid "Joint licence to use open data."
+msgstr ""
+
 #: ckanext/vds/templates/home/index.html:50
 msgid "DO YOU LIKE THE IDEA OF OPEN DATA?"
 msgstr ""

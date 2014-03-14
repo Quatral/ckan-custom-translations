@@ -6424,6 +6424,14 @@ msgstr "ckan_header_fr.jpg"
 msgid "We invite you to the first Sherbrooke Hackathon"
 msgstr "Nous vous invitons au premier hackathon Sherbrookois"
 
+#: ckanext/vds/templates/home/index.html:15
+msgid "4logos_donnees_anglais.jpg"
+msgstr "4logos_donnees.jpg"
+
+#: ckanext/vds/templates/home/index.html:16
+msgid "Joint licence to use open data."
+msgstr "Une licence commune d’utilisation des données ouvertes."
+
 #: ckanext/vds/templates/home/index.html:50
 msgid "DO YOU LIKE THE IDEA OF OPEN DATA?"
 msgstr "LES DONNÉES OUVERTES VOUS ALLUMENT?"
